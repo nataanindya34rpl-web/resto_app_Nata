@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Home_Cookped.dart';
-
+import 'package:flutter_application_1/CodingMini.dart';
 void main() {
-  runApp(const MyApp());
+  runApp(const Myminii());
 }
